@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\NewFolder",
+    "\\obj",
+    "\\Views",
+    "\\Views\\Employees",
+    "\\Views\\Home",
+    "\\Views\\Shared",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
